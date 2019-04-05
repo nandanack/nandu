@@ -1,0 +1,51 @@
+
+--2019-02-22 15:30:03--  https://www.tecmint.com/linux-curl-command-examples/feed/
+Reusing existing connection to www.tecmint.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/rss+xml]
+Saving to: ‘www.tecmint.com/linux-curl-command-examples/feed/index.html’
+
+
+
+2019-02-22 15:30:04 (101 MB/s) - ‘www.tecmint.com/linux-curl-command-examples/feed/index.html’ saved [1579]
+
+--2019-02-22 15:30:04--  https://www.tecmint.com/wp-content/cache/wpfc-minified/g1gybd8k/5u2qw.css
+Reusing existing connection to www.tecmint.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 158458 (155K) [text/css]
+Saving to: ‘www.tecmint.com/wp-content/cache/wpfc-minified/g1gybd8k/5u2qw.css’
+
+
+
+2019-02-22 15:30:04 (539 KB/s) - ‘www.tecmint.com/wp-content/cache/wpfc-minified/g1gybd8k/5u2qw.css’ saved [158458/158458]
+
+--2019-02-22 15:30:04--  https://www.tecmint.com/wp-content/cache/wpfc-minified/kacw2hcl/5u2qw.js
+Reusing existing connection to www.tecmint.com:443.
+HTTP request sent, awaiting response... 200 ‘wget-log’
+Length: unspecified [text/javascript]
+Saving to: ‘www.tecmint.com/wp-content/cache/wpfc-minified/kacw2hcl/5u2qw.js’
+
+     0K .......... .......... .......... .......... .......... 48.9M
+    50K .......... .......... .......... .......... .......... 76.5M
+   100K ....                                                    120M=0.002s
+
+2019-02-22 16:15:44 (61.1 MB/s) - ‘www.tecmint.com/wp-content/cache/wpfc-minified/kacw2hcl/5u2qw.js’ saved [107394]
+
+--2019-02-22 16:15:44--  https://www.tecmint.com/wp-content/cache/wpfc-minified/m93vw4rz/5u2qw.js
+Connecting to www.tecmint.com (www.tecmint.com)|104.25.57.103|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘www.tecmint.com/wp-content/cache/wpfc-minified/m93vw4rz/5u2qw.js’
+
+     0K .......... .......... ..........                        113K=0.3s
+
+2019-02-22 16:15:46 (113 KB/s) - ‘www.tecmint.com/wp-content/cache/wpfc-minified/m93vw4rz/5u2qw.js’ saved [31518]
+
+--2019-02-22 16:15:46--  https://www.tecmint.com/wp-json/
+Reusing existing connection to www.tecmint.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘www.tecmint.com/wp-json/index.html’
+
+     0K .......... .......... .......... .......... ..........  213K
+    50K ....
